@@ -48,8 +48,3 @@ The model performs exceptionally well in identifying fraudulent transactions wit
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
